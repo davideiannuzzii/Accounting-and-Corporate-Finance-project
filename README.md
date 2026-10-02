@@ -23,6 +23,12 @@ Company report developed for the *Accounting and Corporate Finance* course. The 
 ## Authors
 
 Davide Iannuzzi ([@davideiannuzzii](https://github.com/davideiannuzzii))
+Micaela Carianni
+Pasquale Gallo
+Manfredi Buscemi
+Sophia Dolzani
+Gaia Girelli
+Tommaso Masetti
 
 ## License
 
